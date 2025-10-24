@@ -1,6 +1,0 @@
-Keyword (5): int, main, int, int, print
-Identifier (4): x, y, x, y
-Constant (2): 10, 20
-Operator (3): =, =, +
-Punctuation (9): (, ), {, ;, ;, (, ), ;, }
-Comment (0): -
